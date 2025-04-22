@@ -81,9 +81,11 @@ You can explore and download the following sample reports directly from the repo
 
 ---
 
-## 💬 **Connect with Me**
+## 💬 Connect with Me
 
-Feel free to reach out with any questions or for further discussions!
-- LinkedIn: [https://www.linkedin.com/in/melbin-biju/]
-- Email: [melbinbiju212330@gmail.com]
+Feel free to reach out with any questions or to connect further!
+
+- 📫 **Email**: [melbinbiju212330@gmail.com](mailto:melbinbiju212330@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/melbin-biju](https://www.linkedin.com/in/melbin-biju/)
+
 
