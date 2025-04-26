@@ -1,6 +1,6 @@
-# AtliQ Sales & Finance Reports Excel
+# AtliQ Sales & Finance Analytics - Excel
 
-Welcome to the **AtliQ Sales & Finance Reports** repository! This project demonstrates the use of **Excel** to create impactful **Sales** and **Finance** reports, offering businesses actionable insights into their performance. It leverages advanced Excel features like **Power Query**, **Power Pivot**, **DAX**, and **VBA** to provide real-world solutions for data analysis and reporting.
+Welcome to the **AtliQ Sales & Finance Analytics** repository! This project demonstrates the use of **Excel** to create impactful **Sales** and **Finance** reports, offering businesses actionable insights into their performance. It leverages advanced Excel features like **Power Query**, **Power Pivot**, **DAX**, and **VBA** to provide real-world solutions for data analysis and reporting.
 
 ---
 
